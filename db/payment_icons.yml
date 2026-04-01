@@ -3450,3 +3450,7 @@
   name: deema
   label: Deema
   group: other
+-
+  name: bobpay_eft
+  label: Bob Pay
+  group: bank_transfers
